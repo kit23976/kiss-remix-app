@@ -1,11 +1,11 @@
 export const cards = [
 {
     id: 100,
-    name: "teerawat barnvimol",
+    name: "กิด barnvimol",
     bio: "นักศึกษาประจำสาขาวิชาเทคโนโลยีสารสนเทส",
-    bgProd:"/images/image1.png",
+    bgProd:"/images/image1.jpg",
     userIcon:"/images/image3.jpg",
-    userName:"teerawat",
+    userName:"กิด",
     createdAt: "Junly 11,2024",
     active : true
 },
@@ -14,7 +14,7 @@ export const cards = [
     name: "boss si",
     bio: "นักศึกษาประจำสาขาวิชาเทคโนโลยีสารสนเทส",
     bgProd:"/images/image2.jpg",
-    userIcon:"/images/image1.png",
+    userIcon:"/images/image1.jpg",
     userName:"boss si",
     createdAt: "Junly 10,2024",
     active : false
