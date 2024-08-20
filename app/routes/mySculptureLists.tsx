@@ -11,7 +11,7 @@ export default function EProject() {
     function handleClickNext() {
         if (index < sculptureList.length -1 ) {
             setIndex(index + 1);
-        } else {    
+        } else {   
             setIndex(0);
         }
     }
