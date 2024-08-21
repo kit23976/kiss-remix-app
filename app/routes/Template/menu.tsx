@@ -20,7 +20,7 @@ export default function AppMenu() {
                     <div className="flex items-center">
                         <ul className="flex flex-row font-medium mt-0 space-x-8 rtl:space-x-reverse text-sm">
                             <li>
-                                <a href="gay" className="text-gray-900 dark:text-white hover:underline" aria-current="page">gay</a>
+                                <a href="/ABC" className="text-gray-900 dark:text-white hover:underline" aria-current="page">ABC</a>
                             </li>
                             <li>
                                 <a href="/CreateCard" className="text-gray-900 dark:text-white hover:underline">CreateCard</a>
@@ -29,7 +29,10 @@ export default function AppMenu() {
                                 <a href="cards/MyCards" className="text-gray-900 dark:text-white hover:underline">cards.MyCards</a>
                             </li>
                             <li>
-                                <a href="#" className="text-gray-900 dark:text-white hover:underline">Features</a>
+                                <a href="/mySculptureLists" className="text-gray-900 dark:text-white hover:underline">mySculptureLists</a>
+                            </li>
+                            <li>
+                                <a href="/test" className="text-gray-900 dark:text-white hover:underline">test</a>
                             </li>
                         </ul>
                     </div>

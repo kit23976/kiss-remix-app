@@ -13,7 +13,7 @@ export const meta: MetaFunction = () => {
 export default function EProject() {
   return (
     <>
-      <AppMenu />
+      {/* <AppMenu /> */}
       <main>
         <MyCards />
       </main>
